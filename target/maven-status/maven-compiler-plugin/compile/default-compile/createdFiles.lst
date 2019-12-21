@@ -1,6 +1,10 @@
 com\microservices\msscbeerservices\web\model\BeerStyleEnum.class
+com\microservices\msscbeerservices\domain\Beer$BeerBuilder.class
+com\microservices\msscbeerservices\domain\Beer.class
 com\microservices\msscbeerservices\web\controller\BeerController.class
 com\microservices\msscbeerservices\web\model\BeerDto.class
+com\microservices\msscbeerservices\repositories\BeerRepository.class
 com\microservices\msscbeerservices\web\model\BeerPagedList.class
 com\microservices\msscbeerservices\web\model\BeerDto$BeerDtoBuilder.class
+com\microservices\msscbeerservices\bootstrap\BeerLoader.class
 com\microservices\msscbeerservices\MsscBeerServicesApplication.class
