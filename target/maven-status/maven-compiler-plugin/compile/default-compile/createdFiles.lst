@@ -1,1 +1,6 @@
+guru\springframework\msscbeerservices\web\model\BeerDto$BeerDtoBuilder.class
+guru\springframework\msscbeerservices\web\controller\BeerController.class
+guru\springframework\msscbeerservices\web\model\BeerDto.class
+guru\springframework\msscbeerservices\web\model\BeerPagedList.class
 guru\springframework\msscbeerservices\MsscBeerServicesApplication.class
+guru\springframework\msscbeerservices\web\model\BeerStyleEnum.class
